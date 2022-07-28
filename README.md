@@ -1,5 +1,18 @@
 # awesome-fuel
-A maintained and comprehensive list of Fuel resources.
+A maintained and comprehensive list of awesome Fuel resources!
+
+![Fuel Hero image](https://user-images.githubusercontent.com/9806174/181594451-aa0bae5f-6794-4563-a3e9-d0c581366da5.jpg "Title")
+
+# Table of Contents
+- [Articles](#articles)
+- [AMAs](#amas)
+- [Podcasts](#podcasts)
+- [Presentations](#presentations)
+- [Official Twitter Accounts](#official-twitter-accounts)
+- [People to Follow](#people-to-follow)
+- [Best Tweets](#best-tweets)
+- [Apply for Grants](#apply-for-grants)
+- [Projects Building on Fuel](#projects-building-on-fuel)
 
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
