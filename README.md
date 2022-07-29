@@ -14,6 +14,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Apply for Grants](#apply-for-grants)
 - [Projects Building on Fuel](#projects-building-on-fuel)
 
+## Upcoming Events and Hackathons
+| Name | Dates | Location |
+|---|---|---|
+|  [EthBerlin](ethberlin.ooo) | September 16-18 | Berlin |
+
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
 - [Is Fuel The Best Modular Execution Layer?](https://members.delphidigital.io/reports/is-fuel-the-best-modular-execution-layer)
