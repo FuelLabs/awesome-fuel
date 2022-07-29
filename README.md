@@ -4,6 +4,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 ![Fuel Hero image](https://user-images.githubusercontent.com/9806174/181594451-aa0bae5f-6794-4563-a3e9-d0c581366da5.jpg "Title")
 
 # Table of Contents
+- [Upcoming Events and Hackathons](#upcoming-events-and-hackathons)
 - [Articles](#articles)
 - [AMAs](#amas)
 - [Podcasts](#podcasts)
@@ -15,9 +16,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Projects Building on Fuel](#projects-building-on-fuel)
 
 ## Upcoming Events and Hackathons
-| Name | Dates | Location |
-|---|---|---|
-|  [EthBerlin](ethberlin.ooo) | September 16-18 | Berlin |
+| Name | Dates | Location | Sponsoring |
+|---|---|---|---|
+|  [EthBerlin](ethberlin.ooo) | September 16-18 | Berlin | Yes |
 
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
