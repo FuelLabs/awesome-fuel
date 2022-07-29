@@ -66,6 +66,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [An Introduction To Fuel - @Folifoxx](https://twitter.com/Folifoxx/status/1511796367324184579)
 - [Data Availability Layers and Fuel - @Delphi_Digital](https://twitter.com/Delphi_Digital/status/1551653384972865537)
 - [Rollups are far more than just a scaling solution for L1s. - @musalbas](https://twitter.com/musalbas/status/1545060322842533890)
+- [Visualization of the Modular Ecosystem - @dabit3](https://twitter.com/dabit3/status/1551932518374539264)
 
 ## Apply for Grants
 - [Fuel Ecosystem Grant Application](https://docs.google.com/document/d/1dAV7FgscraxpCeECo93sioaqMsSYWG3AJBoIfWc5EM0/mobilebasic)
