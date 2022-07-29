@@ -56,10 +56,10 @@ A maintained and comprehensive list of awesome Fuel resources!
 - Sway Language [@swaylang](https://twitter.com/swaylang)
 
 ## People to Follow
-- John Adler - [@jadler](https://twitter.com/jadler0)
-- Nick Dodson - [@iamnickdodson](https://twitter.com/iamnickdodson)
-- Emily Hurbert - [@emilyaherbert](https://twitter.com/emilyaherbert)
-- Mohammad Fawaz - [@mohammadfawaz](https://twitter.com/mohammadfawaz)
+- John Adler [@jadler](https://twitter.com/jadler0)
+- Nick Dodson [@iamnickdodson](https://twitter.com/iamnickdodson)
+- Emily Hurbert [@emilyaherbert](https://twitter.com/emilyaherbert)
+- Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
 
 ## Best Tweets
 - [Why the FuelVM is the EVM but Greatly Improved - @IAmNickDodson](https://twitter.com/IAmNickDodson/status/1542516357886988288)
