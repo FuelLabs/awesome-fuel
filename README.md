@@ -59,7 +59,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 ## People to Follow
 - John Adler [@jadler](https://twitter.com/jadler0)
 - Nick Dodson [@iamnickdodson](https://twitter.com/iamnickdodson)
-- Emily Hurbert [@emilyaherbert](https://twitter.com/emilyaherbert)
+- Emily Herbert [@emilyaherbert](https://twitter.com/emilyaherbert)
 - Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
 
 ## Best Tweets
