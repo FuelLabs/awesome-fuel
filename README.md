@@ -59,7 +59,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 ## People to Follow
 - John Adler [@jadler](https://twitter.com/jadler0)
 - Nick Dodson [@iamnickdodson](https://twitter.com/iamnickdodson)
-- Emily Hurbert [@emilyaherbert](https://twitter.com/emilyaherbert)
+- Emily Herbert [@emilyaherbert](https://twitter.com/emilyaherbert)
 - Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
 
 ## Best Tweets
@@ -70,13 +70,13 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Visualization of the Modular Ecosystem - @dabit3](https://twitter.com/dabit3/status/1551932518374539264)
 
 ## Apply for Grants
-- [Fuel Ecosystem Grant Application](https://docs.google.com/document/d/1dAV7FgscraxpCeECo93sioaqMsSYWG3AJBoIfWc5EM0/mobilebasic)
+- [Fuel Ecosystem Grant Application](https://1v1l4ftv9zy.typeform.com/fuelgrants)
 
 ## Projects Building on Fuel
 
 | Name | Kind | Status |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
-|  GiraffeSwap | DEX | Stealth | --  |  -- | --  |
+|  Microchain Systems | DEX | Stealth | [microchain](https://microchain-landing.netlify.app/)  |  -- | --  |
 |  NuFuTu | NFT Marketplace |  Stealth | --  | --  | --  |
 |  Acumen Finance | Lending | Building |  [acument.network](https://acumen.network/) |  [@AcumentOfficial](https://twitter.com/acumenofficial) | --  |
-|  NuclearSwap | DEX |  Stealth | --  | --  | --  |
+|  Elix Finance | DEX |  Stealth | [elix.finance](https://elixfinance.github.io/interface/)  | --  | --  |
