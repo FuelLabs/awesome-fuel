@@ -18,7 +18,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | Sponsoring |
 |---|---|---|---|
-|  [EthBerlin](ethberlin.ooo) | September 16-18 | Berlin | Yes |
+|  [EthBerlin](https://ethberlin.ooo) | September 16-18 | Berlin | Yes |
 
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
