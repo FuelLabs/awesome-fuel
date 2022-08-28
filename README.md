@@ -26,7 +26,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [What Is Fuel Network](https://techtipsnreview.com/what-is-fuel-network-modular-execution-layer-for-ethereum/)
 - [Modular Execution Layers](https://polynya.medium.com/modular-execution-layers-df256768ac2f)
 - [SwaySwap launch on Ethereum's Modular Execution Layer](https://etherworld.co/2022/06/27/swayswap-launch-on-ethereums-modular-execution-layer/)
-- [Sway Programming - An Introduction by 0xready](https://vertical.im/0xReady/draft/94c87ce3-9dd2-4892-bc88-b44e576c6ab3)
+- [Sway Programming - An Introduction by 0xready](https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv)
 
 ## AMAs
 - July 13th, 22' - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
