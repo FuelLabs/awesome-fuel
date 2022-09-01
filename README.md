@@ -61,6 +61,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - Nick Dodson [@iamnickdodson](https://twitter.com/iamnickdodson)
 - Emily Herbert [@emilyaherbert](https://twitter.com/emilyaherbert)
 - Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
+- Cami Ramos [@camiinthisthang](https://twitter.com/camiinthisthang)
 
 ## Best Tweets
 - [Why the FuelVM is the EVM but Greatly Improved - @IAmNickDodson](https://twitter.com/IAmNickDodson/status/1542516357886988288)
