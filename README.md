@@ -83,3 +83,4 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  NuFuTu | NFT Marketplace |  Stealth | --  | --  | --  |
 |  Acumen Finance | Lending | Building |  [acument.network](https://acumen.network/) |  [@AcumentOfficial](https://twitter.com/acumenofficial) | --  |
 |  Elix Finance | DEX |  Stealth | [elix.finance](https://elixfinance.github.io/interface/)  | --  | --  |
+|  Fuel Nomen  | Name Service | Stealth | -- | -- | -- |
