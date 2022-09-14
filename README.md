@@ -30,6 +30,19 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Sway Programming - An Introduction by 0xready](https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv)
 - [The Case for Modular Maxis](https://davidphelps.substack.com/p/the-case-for-modular-maxis)
 
+### International
+#### Russia
+- [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
+
+#### Chinese
+
+
+
+#### Vietnam
+- [Giới thiệu SwaySwap: Một DEX cực nhanh trên Lớp thực thi modular của Ethereum](https://mirror.xyz/8268368.eth/JkGOMGpFC33-KPsreGy8QF2HhMTg-2YeaJ65a_xXV0E)
+
+
+
 ## AMAs
 - July 13th, 22' - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
 
