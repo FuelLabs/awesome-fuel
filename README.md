@@ -39,7 +39,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Масштабируемость Ethereum: почему все должны думать о Fuel](https://medium.com/@ixelaa/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-ethereum-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D1%81%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C-%D0%BE-fuel-f1d035020bd9)
 - [Testnet SwaySwap.](https://medium.com/@cryptocreepz/testnet-swayswap-f9c242e125eb)
 
-#### Chinese
+#### China
 - [SwaySwap基于Fuel测试网的中文指南](https://mirror.xyz/baikaishui.eth/TuneChL7MJ4KT6mf4YuN01J3peUpGz7hKOgQT2_QRK8)
 - [一部分博客翻译](https://colossal-lily-7f9.notion.site/Fuel-Navigation-f6fb2614dbaf4d10a0f7f9b15d878d1d)
 - [关于以太坊扩容：为什么我们应该想到Fuel](https://mirror.xyz/0xF43109fFf1E3C08Cd36D2F3c9793A73d2E893301/QvGOgPl5c63D-kaG1Qo-0TZqxXqVcU7LwS8gTm_Cagk)
