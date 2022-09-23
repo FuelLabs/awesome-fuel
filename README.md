@@ -25,7 +25,6 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Is Fuel The Best Modular Execution Layer?](https://members.delphidigital.io/reports/is-fuel-the-best-modular-execution-layer)
 - [The Fuel for Fast Execution](https://maven11.substack.com/p/the-fuel-for-fast-execution)
 - [What Is Fuel Network](https://techtipsnreview.com/what-is-fuel-network-modular-execution-layer-for-ethereum/)
-- [Modular Execution Layers](https://polynya.medium.com/modular-execution-layers-df256768ac2f)
 - [SwaySwap launch on Ethereum's Modular Execution Layer](https://etherworld.co/2022/06/27/swayswap-launch-on-ethereums-modular-execution-layer/)
 - [Sway Programming - An Introduction by 0xready](https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv)
 - [The Case for Modular Maxis](https://davidphelps.substack.com/p/the-case-for-modular-maxis)
