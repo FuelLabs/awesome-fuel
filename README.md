@@ -19,6 +19,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 | Name | Dates | Location | Sponsoring |
 |---|---|---|---|
 |  [EthBerlin](https://ethberlin.ooo) | September 16-18 | Berlin | Yes |
+|  [Devcon](https://devcon.org/) | October 11-15 | Bogota | No |
+|  [ETH Lisbon](https://www.ethlisbon.org/) | October 28-30 | Lisbon | Yes |
+
 
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
@@ -28,6 +31,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [SwaySwap launch on Ethereum's Modular Execution Layer](https://etherworld.co/2022/06/27/swayswap-launch-on-ethereums-modular-execution-layer/)
 - [Sway Programming - An Introduction by 0xready](https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv)
 - [The Case for Modular Maxis](https://davidphelps.substack.com/p/the-case-for-modular-maxis)
+- [Understanding Celestia's Blood Brother "Fuel": What's the difference betweeten a modular execution layer and a L2?](https://medium.com/@Inw5sAJJIrks6IE/understanding-celestias-blood-brother-fuel-what-s-the-difference-between-the-modular-27cbb1e959ce)
+- [Ethereum Scalability: Why Everyone Should Be Thinking About Fuel](https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM)
+- [Fuel. A modular blockchain that solves the trilemma](https://medium.com/@Inw5sAJJIrks6IE/understanding-celestias-blood-brother-fuel-what-s-the-difference-between-the-modular-27cbb1e959ce)
+- [Introducing "Beta-1", the First Modular Execution Layer Developer-facing Testnet](https://fuel-labs.ghost.io/introducing-beta-1-testnet/)
+- [Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/)
 
 ### International
 
@@ -74,7 +82,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Alex Hansen - A year's progress in Sway](https://www.youtube.com/watch?v=0WEwv9_9FTY&list=PLqL60kqgLPBBrc64K-1Gs771FBTiLtYZE)
 - [John Adler - Induced Demand from Blockchain Resource Pricing](https://m.youtube.com/watch?v=_6ctMrlhcO4)
 - [Secure Off-chain Data Availability for Rollups - John Adler](https://www.youtube.com/watch?v=f88tGRBimmE&feature=youtu.be)
-- [Alex Hansen Sway : A Rust-based Smart Contract Language](https://www.youtube.com/watch?v=S52ZsZ7rNOo)
+- [Alex Hansen Sway - A Rust-based Smart Contract Language](https://www.youtube.com/watch?v=S52ZsZ7rNOo)
+- [Camila Ramos - Solving Scalability: Layer 2s and Modular Blockchains](https://docs.google.com/presentation/d/1sGIDSatBG_HaldTJ_ckduEQVzpvFroD4CF04Q_aHklM/edit#slide=id.p)
+- [Alex Hansen - Developing a DAO contract in Sway](https://watch.ethberlin.ooo/session/developing-a-dao-contract-in-sway)
 
 ## Official Twitter Accounts
 - Fuel Labs [@fuellabs_](https://twitter.com/fuellabs_)
