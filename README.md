@@ -113,7 +113,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 |---|---|---|---|---|---|
 |  Microchain Systems | DEX | Stealth | [microchain](https://microchain-landing.netlify.app/)  |  -- | --  |
 |  NuFuTu | NFT Marketplace |  Stealth | --  | --  | --  |
-|  Acumen Finance | Lending | Building |  [acument.network](https://acumen.network/) |  [@AcumentOfficial](https://twitter.com/acumenofficial) | --  |
+|  Acumen Finance | Lending | Building |  [acumen.network](https://acumen.network/) |  [@AcumentOfficial](https://twitter.com/acumenofficial) | --  |
 |  Elix Finance | DEX |  Stealth | [elix.finance](https://elixfinance.github.io/interface/)  | --  | --  |
 |  Fuel Nomen  | Name Service | Stealth | -- | -- | -- |
 |  Orao  | Oracles + VRF| Building | [orao.network](https://orao.network/) | [@OraoNetwork](https://twitter.com/OraoNetwork) | -- |
+|  Thunder  | NFT Marketplace| Stealth | -- | -- | -- |
+|  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
