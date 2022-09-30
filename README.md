@@ -119,3 +119,4 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Orao  | Oracles + VRF| Building | [orao.network](https://orao.network/) | [@OraoNetwork](https://twitter.com/OraoNetwork) | -- |
 |  Thunder  | NFT Marketplace| Stealth | -- | -- | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
+|  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | -- | -- |
