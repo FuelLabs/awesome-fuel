@@ -120,3 +120,5 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Thunder  | NFT Marketplace| Stealth | -- | -- | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | -- | -- |
+|  SmartMoney  | Lending | Stealth | -- | -- | -- |
+
