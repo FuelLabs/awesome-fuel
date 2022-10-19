@@ -41,7 +41,6 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Introducing "Beta-1", the First Modular Execution Layer Developer-facing Testnet](https://fuel-labs.ghost.io/introducing-beta-1-testnet/)
 - [Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/)
 
-
 ## AMAs
 - July 13th, 22 - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
 - Oct 7th, 22 - [Fuel AMA with John Adler](https://twitter.com/i/spaces/1OyJAVmzdDqxb?s=20)
@@ -114,6 +113,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Thunder  | NFT Marketplace| Stealth | -- | -- | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | -- | -- |
+|  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | -- | -- |
 
 ### International
 
