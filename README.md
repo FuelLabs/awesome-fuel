@@ -12,8 +12,10 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Official Twitter Accounts](#official-twitter-accounts)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
+- [Libraries](#libraries)
 - [Apply for Grants](#apply-for-grants)
 - [Projects Building on Fuel](#projects-building-on-fuel)
+- [International Articles](#international)
 
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | Sponsoring |
@@ -21,10 +23,12 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  [EthBerlin](https://ethberlin.ooo) | September 16-18 | Berlin | Yes |
 |  [Devcon](https://devcon.org/) | October 11-15 | Bogota | No |
 |  [ETH Lisbon](https://www.ethlisbon.org/) | October 28-30 | Lisbon | Yes |
+|  [ETH SF](https://sf.ethglobal.com/) | November 4-6 | San Francisco | Yes |
 
 
 ## Articles
 - [Introducing Fuel the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)
+- [Exploring the FuelVM: Next generation, scalable, blockchain VMs are here](https://medium.com/blockchain-capital-blog/exploring-the-fuelvm-86cf9ccdc159)
 - [Is Fuel The Best Modular Execution Layer?](https://members.delphidigital.io/reports/is-fuel-the-best-modular-execution-layer)
 - [The Fuel for Fast Execution](https://maven11.substack.com/p/the-fuel-for-fast-execution)
 - [What Is Fuel Network](https://techtipsnreview.com/what-is-fuel-network-modular-execution-layer-for-ethereum/)
@@ -37,31 +41,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Introducing "Beta-1", the First Modular Execution Layer Developer-facing Testnet](https://fuel-labs.ghost.io/introducing-beta-1-testnet/)
 - [Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/)
 
-### International
-
-#### Russia
-- [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
-- [О проекте Fuel.](https://medium.com/@balamosha/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-e7dca0630332)
-- [Представляем “Beta-1”, первый модульный уровень исполнения, ориентированный на разработчиков Fuel Testnet](https://medium.com/@ixelaa/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-beta-1-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2-fuel-ecf81da5d298)
-- [Масштабируемость Ethereum: почему все должны думать о Fuel](https://medium.com/@ixelaa/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-ethereum-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D1%81%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C-%D0%BE-fuel-f1d035020bd9)
-- [Testnet SwaySwap.](https://medium.com/@cryptocreepz/testnet-swayswap-f9c242e125eb)
-
-#### China
-- [SwaySwap基于Fuel测试网的中文指南](https://mirror.xyz/baikaishui.eth/TuneChL7MJ4KT6mf4YuN01J3peUpGz7hKOgQT2_QRK8)
-- [一部分博客翻译](https://colossal-lily-7f9.notion.site/Fuel-Navigation-f6fb2614dbaf4d10a0f7f9b15d878d1d)
-- [关于以太坊扩容：为什么我们应该想到Fuel](https://mirror.xyz/0xF43109fFf1E3C08Cd36D2F3c9793A73d2E893301/QvGOgPl5c63D-kaG1Qo-0TZqxXqVcU7LwS8gTm_Cagk)
-
-#### Vietnam
-- [Giới thiệu SwaySwap: Một DEX cực nhanh trên Lớp thực thi modular của Ethereum](https://mirror.xyz/8268368.eth/JkGOMGpFC33-KPsreGy8QF2HhMTg-2YeaJ65a_xXV0E)
-- [Fuel Labs thông báo hỗ trợ 80 triệu đô la cho lớp thực thi mô-đun nhanh nhất](https://medium.com/@truecryptovietnam1/fuel-labs-th%C3%B4ng-b%C3%A1o-h%E1%BB%97-tr%E1%BB%A3-80-tri%E1%BB%87u-%C4%91%C3%B4-la-cho-l%E1%BB%9Bp-th%E1%BB%B1c-thi-m%C3%B4-%C4%91un-nhanh-nh%E1%BA%A5t-98e182be2c14)
-
-#### Ukraine
-- [Представляємо Beta-1, першу тестову мережу Fuel Testnet для модульного рівня виконання, призначену для розробників](https://medium.com/@holddl/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%94%D0%BC%D0%BE-beta-1-%D0%BF%D0%B5%D1%80%D1%88%D1%83-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%83-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%83-fuel-testnet-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D1%83-73987f559df3)
-- [Модель Токена для створення блоків на Другому рівні](https://medium.com/@holddl/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D1%96%D0%B2-%D0%BD%D0%B0-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC%D1%83-%D1%80%D1%96%D0%B2%D0%BD%D1%96-7199f148b7ee)
-- [Fuel Labs оголошує про підтримку найшвидшого модульного рівня виконання вартістю 80 мільйонів доларів](https://medium.com/@EtoBOBER/fuel-labs-%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D1%83%D1%94-%D0%BF%D1%80%D0%BE-%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D1%83-%D0%BD%D0%B0%D0%B9%D1%88%D0%B2%D0%B8%D0%B4%D1%88%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2%D0%B0%D1%80%D1%82%D1%96%D1%81%D1%82%D1%8E-80-%D0%BC%D1%96%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD%D1%96%D0%B2-dfc0e28d2a81)
-
 ## AMAs
-- July 13th, 22' - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
+- July 13th, 22 - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
+- Oct 7th, 22 - [Fuel AMA with John Adler](https://twitter.com/i/spaces/1OyJAVmzdDqxb?s=20)
 
 ## Podcasts
 - [Fuel Network: The Fastest Modular Execution Layer?](https://www.youtube.com/watch?v=WfPWbUdf-i8)
@@ -85,6 +67,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Alex Hansen Sway - A Rust-based Smart Contract Language](https://www.youtube.com/watch?v=S52ZsZ7rNOo)
 - [Camila Ramos - Solving Scalability: Layer 2s and Modular Blockchains](https://docs.google.com/presentation/d/1sGIDSatBG_HaldTJ_ckduEQVzpvFroD4CF04Q_aHklM/edit#slide=id.p)
 - [Alex Hansen - Developing a DAO contract in Sway](https://watch.ethberlin.ooo/session/developing-a-dao-contract-in-sway)
+- [Camila Ramos - Machismo, Remittance, Inflation: Scaling Ethereum for Widespread Adoption in LATAM](https://docs.google.com/presentation/d/12EpcqMBJtyJXvWlmIY00kttPv-Y_Mwlpnb8GnkOulnw/edit#slide=id.p1)
+- [Camila Ramos - Building Fullstack Dapps on Fuel Workshop](https://www.youtube.com/watch?v=19tQwOrybzc)
+- [Nick Dodson @ Devcon - New Paradigms by Non EVM Compatible Layer 2s](https://archive.devcon.org/archive/watch/6/new-paradigms-by-non-evm-compatible-l2s/?tab=YouTube)
+- [John Adler @ Devcon - Fuel: Scaling Ethereum with the Fastest Modular Execution Layer](https://archive.devcon.org/archive/watch/6/fuel-scaling-ethereum-with-the-fastest-modular-execution-layer/?tab=YouTube)
+- [John Adler @ Rollup Day - How Much EVM is Enough?](https://www.youtube.com/watch?v=Os10Ln8sMOc)
 
 ## Official Twitter Accounts
 - Fuel Labs [@fuellabs_](https://twitter.com/fuellabs_)
@@ -96,6 +83,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - Emily Herbert [@emilyaherbert](https://twitter.com/emilyaherbert)
 - Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
 - Cami Ramos [@camiinthisthang](https://twitter.com/camiinthisthang)
+- Fuel Intern [@fueldrinker69](https://twitter.com/fueldrinker69)
 
 ## Best Tweets
 - [Why the FuelVM is the EVM but Greatly Improved - @IAmNickDodson](https://twitter.com/IAmNickDodson/status/1542516357886988288)
@@ -103,6 +91,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Data Availability Layers and Fuel - @Delphi_Digital](https://twitter.com/Delphi_Digital/status/1551653384972865537)
 - [Rollups are far more than just a scaling solution for L1s. - @musalbas](https://twitter.com/musalbas/status/1545060322842533890)
 - [Visualization of the Modular Ecosystem - @dabit3](https://twitter.com/dabit3/status/1551932518374539264)
+- [With rollups, we can build modular blockchain networks, removing the need to spin up new L1 smart contract platforms](https://twitter.com/musalbas/status/1582396496229507072?s=20&t=1KDBXVNLjF5NTk6C7gCj9Q)
+- [Writing dapps on Fuel is honestly so nice because you don't have to configure wagmi, hardhat/foundry, ethers.js... - @camiinthisthang](https://twitter.com/camiinthisthang/status/1577738478699171845)
+
+## Libraries
+- [Swaymigo - @sproule_/](https://github.com/BlockchainCap/swaymigo)
 
 ## Apply for Grants
 - [Fuel Ecosystem Grant Application](https://1v1l4ftv9zy.typeform.com/fuelgrants)
@@ -120,3 +113,27 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Thunder  | NFT Marketplace| Stealth | -- | -- | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | -- | -- |
+|  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | -- | -- |
+
+### International
+
+#### Russia
+- [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
+- [О проекте Fuel.](https://medium.com/@balamosha/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-e7dca0630332)
+- [Представляем “Beta-1”, первый модульный уровень исполнения, ориентированный на разработчиков Fuel Testnet](https://medium.com/@ixelaa/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-beta-1-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2-fuel-ecf81da5d298)
+- [Масштабируемость Ethereum: почему все должны думать о Fuel](https://medium.com/@ixelaa/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-ethereum-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D1%81%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C-%D0%BE-fuel-f1d035020bd9)
+- [Testnet SwaySwap.](https://medium.com/@cryptocreepz/testnet-swayswap-f9c242e125eb)
+
+#### China
+- [SwaySwap基于Fuel测试网的中文指南](https://mirror.xyz/baikaishui.eth/TuneChL7MJ4KT6mf4YuN01J3peUpGz7hKOgQT2_QRK8)
+- [一部分博客翻译](https://colossal-lily-7f9.notion.site/Fuel-Navigation-f6fb2614dbaf4d10a0f7f9b15d878d1d)
+- [关于以太坊扩容：为什么我们应该想到Fuel](https://mirror.xyz/0xF43109fFf1E3C08Cd36D2F3c9793A73d2E893301/QvGOgPl5c63D-kaG1Qo-0TZqxXqVcU7LwS8gTm_Cagk)
+
+#### Vietnam
+- [Giới thiệu SwaySwap: Một DEX cực nhanh trên Lớp thực thi modular của Ethereum](https://mirror.xyz/8268368.eth/JkGOMGpFC33-KPsreGy8QF2HhMTg-2YeaJ65a_xXV0E)
+- [Fuel Labs thông báo hỗ trợ 80 triệu đô la cho lớp thực thi mô-đun nhanh nhất](https://medium.com/@truecryptovietnam1/fuel-labs-th%C3%B4ng-b%C3%A1o-h%E1%BB%97-tr%E1%BB%A3-80-tri%E1%BB%87u-%C4%91%C3%B4-la-cho-l%E1%BB%9Bp-th%E1%BB%B1c-thi-m%C3%B4-%C4%91un-nhanh-nh%E1%BA%A5t-98e182be2c14)
+
+#### Ukraine
+- [Представляємо Beta-1, першу тестову мережу Fuel Testnet для модульного рівня виконання, призначену для розробників](https://medium.com/@holddl/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%94%D0%BC%D0%BE-beta-1-%D0%BF%D0%B5%D1%80%D1%88%D1%83-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%83-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%83-fuel-testnet-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D1%83-73987f559df3)
+- [Модель Токена для створення блоків на Другому рівні](https://medium.com/@holddl/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D1%96%D0%B2-%D0%BD%D0%B0-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC%D1%83-%D1%80%D1%96%D0%B2%D0%BD%D1%96-7199f148b7ee)
+- [Fuel Labs оголошує про підтримку найшвидшого модульного рівня виконання вартістю 80 мільйонів доларів](https://medium.com/@EtoBOBER/fuel-labs-%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D1%83%D1%94-%D0%BF%D1%80%D0%BE-%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D1%83-%D0%BD%D0%B0%D0%B9%D1%88%D0%B2%D0%B8%D0%B4%D1%88%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2%D0%B0%D1%80%D1%82%D1%96%D1%81%D1%82%D1%8E-80-%D0%BC%D1%96%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD%D1%96%D0%B2-dfc0e28d2a81)
