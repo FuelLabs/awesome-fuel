@@ -84,6 +84,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - Mohammad Fawaz [@mohammadfawaz](https://twitter.com/mohammadfawaz)
 - Cami Ramos [@camiinthisthang](https://twitter.com/camiinthisthang)
 - Fuel Intern [@fueldrinker69](https://twitter.com/fueldrinker69)
+- Alex Hansen [@awleckss](https://twitter.com/awleckss)
 
 ## Best Tweets
 - [Why the FuelVM is the EVM but Greatly Improved - @IAmNickDodson](https://twitter.com/IAmNickDodson/status/1542516357886988288)
