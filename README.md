@@ -13,6 +13,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
 - [Libraries](#libraries)
+- [Developer Resources](#developer-resources)
 - [Apply for Grants](#apply-for-grants)
 - [Projects Building on Fuel](#projects-building-on-fuel)
 - [International Articles](#international)
@@ -53,6 +54,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Cowfriends on Fuel Labs](https://open.spotify.com/episode/6QmOOIz8XOQy7PkzVkz2Uu?si=2455e4bc0e09462b&nd=1)
 - [CELESTIA DEEP DIVE: DATA AVAILABILITY SAMPLING, CEVMOS, ROLLUPS & MORE](https://www.youtube.com/watch?v=3-kIa-r8Twc)
 - [John Adler (Fuel Labs, Celestia) on building the fastest modular execution layer (EP.307)](https://onthebrink-podcast.com/fuel/)
+- [Devs Do Something: Camila Ramos on Fuel, DevX, and Crypto's Future in LatAm](https://www.youtube.com/watch?v=Ua0UBO75Wck)
 
 ## Presentations
 - [A Modular Blockchain World](https://www.youtube.com/watch?v=f88tGRBimmE)
@@ -72,6 +74,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Nick Dodson @ Devcon - New Paradigms by Non EVM Compatible Layer 2s](https://archive.devcon.org/archive/watch/6/new-paradigms-by-non-evm-compatible-l2s/?tab=YouTube)
 - [John Adler @ Devcon - Fuel: Scaling Ethereum with the Fastest Modular Execution Layer](https://archive.devcon.org/archive/watch/6/fuel-scaling-ethereum-with-the-fastest-modular-execution-layer/?tab=YouTube)
 - [John Adler @ Rollup Day - How Much EVM is Enough?](https://www.youtube.com/watch?v=Os10Ln8sMOc)
+- [Camila Ramos @ Devcon - Machismo, Inflation, Remittance: Scaling Ethereum for Widespread Adoption in LATAM](https://www.youtube.com/watch?v=MJ4JVt_sd6w)
 
 ## Official Twitter Accounts
 - Fuel Labs [@fuellabs_](https://twitter.com/fuellabs_)
@@ -97,10 +100,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Writing dapps on Fuel is honestly so nice because you don't have to configure wagmi, hardhat/foundry, ethers.js... - @camiinthisthang](https://twitter.com/camiinthisthang/status/1577738478699171845)
 
 ## Libraries
+- [Sway Libraries - Fuel Labs](https://github.com/sway-libs)
 - [Swaymigo - @sproule_/](https://github.com/BlockchainCap/swaymigo)
 
-## Templates
-- [Brech1 - Sway Frontend](https://github.com/brech1/sway-frontend)
+## Developer Resources 
+- [Sway frontend template implementation](https://github.com/brech1/sway-frontend)
 
 ## Apply for Grants
 - [Fuel Ecosystem Grant Application](https://1v1l4ftv9zy.typeform.com/fuelgrants)
@@ -118,7 +122,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Thunder  | NFT Marketplace| Stealth | -- | [@ThunderbyFuel](https://twitter.com/ThunderbyFuel) | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | [@poolsharks_labs](https://twitter.com/poolsharks_labs) | -- |
-|  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | -- | -- |
+|  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | [@webgumapp](https://twitter.com/webgumapp) | -- |
 
 ### International
 
