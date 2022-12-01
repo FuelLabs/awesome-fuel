@@ -38,7 +38,6 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [The Case for Modular Maxis](https://davidphelps.substack.com/p/the-case-for-modular-maxis)
 - [Understanding Celestia's Blood Brother "Fuel": What's the difference betweeten a modular execution layer and a L2?](https://medium.com/@Inw5sAJJIrks6IE/understanding-celestias-blood-brother-fuel-what-s-the-difference-between-the-modular-27cbb1e959ce)
 - [Ethereum Scalability: Why Everyone Should Be Thinking About Fuel](https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM)
-- [Fuel. A modular blockchain that solves the trilemma](https://medium.com/@Inw5sAJJIrks6IE/understanding-celestias-blood-brother-fuel-what-s-the-difference-between-the-modular-27cbb1e959ce)
 - [Introducing "Beta-1", the First Modular Execution Layer Developer-facing Testnet](https://fuel-labs.ghost.io/introducing-beta-1-testnet/)
 - [Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/)
 
