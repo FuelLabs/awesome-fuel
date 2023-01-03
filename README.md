@@ -114,13 +114,14 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Microchain Systems | DEX | Stealth | [microchain](https://microchain-landing.netlify.app/)  |  [@MicrochainSys](https://twitter.com/MicrochainSys) | --  |
 |  Unic | NFT Marketplace |  Stealth | --  | [@0xUNIC](https://twitter.com/0xUNIC)  | --  |
 |  Acumen Finance | Lending | Building |  [acumen.network](https://acumen.network/) |  [@AcumentOfficial](https://twitter.com/acumenofficial) | --  |
-|  Elix Finance | DEX |  Stealth | [elix.finance](https://elixfinance.github.io/interface/)  | --  | --  |
+|  Elix Finance | DEX |  Building | [elix.finance](https://elix.finance/)  | [@ElixFinance](https://twitter.com/elixfinance) | --  |
 |  Fuel Nomen  | Name Service | Building | -- | [@fuelnomen](https://twitter.com/fuelnomen) | -- |
 |  Orao  | Oracles + VRF| Building | [orao.network](https://orao.network/) | [@OraoNetwork](https://twitter.com/OraoNetwork) | -- |
 |  Thunder  | NFT Marketplace| Stealth | -- | [@ThunderbyFuel](https://twitter.com/ThunderbyFuel) | -- |
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | [@poolsharks_labs](https://twitter.com/poolsharks_labs) | -- |
 |  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | [@webgumapp](https://twitter.com/webgumapp) | -- |
+|  Fuel Punks  | NFT Project | Building | -- | [@FuelPunks](https://twitter.com/FuelPunks) | -- |
 
 ### International
 
