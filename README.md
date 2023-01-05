@@ -125,6 +125,11 @@ A maintained and comprehensive list of awesome Fuel resources!
 
 ### International
 
+#### Spanish 
+- [Quickstart para desarrolladores.](https://andrw.substack.com/p/quickstart-para-desarrolladores?sd=pf)
+- [Hablando de Blockchains Modulares y Monoliticas.](https://andrw.substack.com/p/blockchains-modulares-y-monoliticas?utm_source=twitter&sd=pf)
+- [Caso de ejecución modular.](https://twitter.com/andrwmayorca/status/1580739925925691395)
+
 #### Russia
 - [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
 - [О проекте Fuel.](https://medium.com/@balamosha/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-e7dca0630332)
