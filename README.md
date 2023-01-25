@@ -123,6 +123,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | [@webgumapp](https://twitter.com/webgumapp) | -- |
 |  Fuel Punks  | NFT Project | Building | -- | [@FuelPunks](https://twitter.com/FuelPunks) | -- |
 |  Fuelet  | Wallet | Building | [fuelet.app](https://fuelet.app/) | [@FueletWallet](https://twitter.com/FueletWallet) | -- |
+|  Pepa Market  | DEX + IDO + Bond + Liquidity Mining| Stealth | -- | [@PEPAMARKET](https://twitter.com/PEPAMARKET) | -- |
 
 ### International
 
