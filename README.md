@@ -19,12 +19,13 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [International Articles](#international)
 
 ## Upcoming Events and Hackathons
-| Name | Dates | Location | Sponsoring |
-|---|---|---|---|
-|  [EthBerlin](https://ethberlin.ooo) | September 16-18 | Berlin | Yes |
-|  [Devcon](https://devcon.org/) | October 11-15 | Bogota | No |
-|  [ETH Lisbon](https://www.ethlisbon.org/) | October 28-30 | Lisbon | Yes |
-|  [ETH SF](https://sf.ethglobal.com/) | November 4-6 | San Francisco | Yes |
+| Name | Dates | Location | Sponsoring | Status |
+|---|---|---|---|---|
+|  [EthBerlin](https://ethberlin.ooo) | September 16-18, 2022 | Berlin | Yes | Completed |
+|  [Devcon](https://devcon.org/) | October 11-15, 2022 | Bogota | No | Completed |
+|  [ETH Lisbon](https://www.ethlisbon.org/) | October 28-30, 2022 | Lisbon | Yes | Completed |
+|  [ETH SF](https://sf.ethglobal.com/) | November 4-6, 2022 | San Francisco | Yes | Completed |
+|  [ETHDenver](https://www.ethdenver.com/) | Feb 24-Mar 5, 2023 | Denver | Yes | Upcoming |
 
 
 ## Articles
@@ -40,6 +41,10 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Ethereum Scalability: Why Everyone Should Be Thinking About Fuel](https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM)
 - [Introducing "Beta-1", the First Modular Execution Layer Developer-facing Testnet](https://fuel-labs.ghost.io/introducing-beta-1-testnet/)
 - [Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/)
+- [Announcing “Beta-2”: Fuel's Second Public Testnet](https://fuel-labs.ghost.io/announcing-beta-2-testnet/)
+- [Account Abstraction for Everyone Else: The Complete Guide to Understanding AA in 2023](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
+- [Modular Blockchains & Getting Started with Fuel Labs by Eda](https://eda.hashnode.dev/modular-blockchains-getting-started-with-fuel)
+- [Fuel: A Fresh Approach To Scaling Blockchains](https://research.nansen.ai/article/329/fuel-a-fresh-approach-to-scaling-blockchains)
 
 ## AMAs
 - July 13th, 22 - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
@@ -54,6 +59,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [CELESTIA DEEP DIVE: DATA AVAILABILITY SAMPLING, CEVMOS, ROLLUPS & MORE](https://www.youtube.com/watch?v=3-kIa-r8Twc)
 - [John Adler (Fuel Labs, Celestia) on building the fastest modular execution layer (EP.307)](https://onthebrink-podcast.com/fuel/)
 - [Devs Do Something: Camila Ramos on Fuel, DevX, and Crypto's Future in LatAm](https://www.youtube.com/watch?v=Ua0UBO75Wck)
+- [Fuel, The Fastest Modular Execution Layer](https://www.youtube.com/watch?v=nSMK4jgobNE)
+- [Nick Dodson on Modular Execution Blockchains](https://www.youtube.com/watch?v=c1uP_sUrvII)
+- [John Adler on Bankless Show - Alpha Leak | The Bull Case for Modular Blockchains](https://www.youtube.com/watch?v=ZFbmmWV4kjQ)
 
 ## Presentations
 - [A Modular Blockchain World](https://www.youtube.com/watch?v=f88tGRBimmE)
@@ -74,6 +82,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [John Adler @ Devcon - Fuel: Scaling Ethereum with the Fastest Modular Execution Layer](https://archive.devcon.org/archive/watch/6/fuel-scaling-ethereum-with-the-fastest-modular-execution-layer/?tab=YouTube)
 - [John Adler @ Rollup Day - How Much EVM is Enough?](https://www.youtube.com/watch?v=Os10Ln8sMOc)
 - [Camila Ramos @ Devcon - Machismo, Inflation, Remittance: Scaling Ethereum for Widespread Adoption in LATAM](https://www.youtube.com/watch?v=MJ4JVt_sd6w)
+- [Camila Ramos ETHDenver #Buidl Prep](http://twitch.tv/ethereumdenver)
 
 ## Official Twitter Accounts
 - Fuel Labs [@fuellabs_](https://twitter.com/fuellabs_)
@@ -96,6 +105,10 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Visualization of the Modular Ecosystem - @dabit3](https://twitter.com/dabit3/status/1551932518374539264)
 - [With rollups, we can build modular blockchain networks, removing the need to spin up new L1 smart contract platforms](https://twitter.com/musalbas/status/1582396496229507072?s=20&t=1KDBXVNLjF5NTk6C7gCj9Q)
 - [Writing dapps on Fuel is honestly so nice because you don't have to configure wagmi, hardhat/foundry, ethers.js... - @camiinthisthang](https://twitter.com/camiinthisthang/status/1577738478699171845)
+- [Introducing Sway Playground [Beta] by Nick Dodson](https://twitter.com/IAmNickDodson/status/1613573348172210177)
+- [Collection of projects within the Fuel ecosystem](https://twitter.com/fuelglobal_/status/1601218737981788160?s=46&t=kwX8f7P65LAXzWyN_FtKGA)
+- [Sway vs. Solidity examples](https://twitter.com/schwartzswartz/status/1617902570630156294)
+- [Sway Vectors in 6 tweets or less](https://twitter.com/jtriley_eth/status/1612539679085334528)
 
 ## Libraries
 - [Sway Libraries - Fuel Labs](https://github.com/sway-libs)
@@ -103,6 +116,12 @@ A maintained and comprehensive list of awesome Fuel resources!
 
 ## Developer Resources 
 - [Sway frontend template implementation](https://github.com/brech1/sway-frontend)
+- [Web3RSVP](https://github.com/camiinthisthang/learnsway-web3rsvp)
+- [SwayMarketplace](https://github.com/sarahschwartz/intro-to-sway)
+- [Sway Book](https://fuellabs.github.io/sway/v0.33.1/book/index.html)
+- [Developer Quickstart](https://fuellabs.github.io/fuel-docs/master/developer-quickstart.html)
+- [Fuel Developer Forum](https://forum.fuel.network/)
+- [An introduction to Sway with simple examples](https://www.swaybyexample.com/)
 
 ## Apply for Grants
 - [Fuel Ecosystem Grant Application](https://1v1l4ftv9zy.typeform.com/fuelgrants)
@@ -130,6 +149,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Quickstart para desarrolladores.](https://andrw.substack.com/p/quickstart-para-desarrolladores?sd=pf)
 - [Hablando de Blockchains Modulares y Monoliticas.](https://andrw.substack.com/p/blockchains-modulares-y-monoliticas?utm_source=twitter&sd=pf)
 - [Caso de ejecución modular.](https://twitter.com/andrwmayorca/status/1580739925925691395)
+- [Cómo crecer y el Fuel de Web3 con Cami Ramos](https://t.co/dcsUgDTfiu)
 
 #### Russia
 - [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
