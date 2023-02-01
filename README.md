@@ -116,12 +116,12 @@ A maintained and comprehensive list of awesome Fuel resources!
 
 ## Developer Resources 
 - [Sway frontend template implementation](https://github.com/brech1/sway-frontend)
-- [Web3RSVP](https://github.com/camiinthisthang/learnsway-web3rsvp)
-- [SwayMarketplace](https://github.com/sarahschwartz/intro-to-sway)
+- [SwayMarketplace](https://github.com/FuelLabs/learnsway-marketplace)
 - [Sway Book](https://fuellabs.github.io/sway/v0.33.1/book/index.html)
 - [Developer Quickstart](https://fuellabs.github.io/fuel-docs/master/developer-quickstart.html)
 - [Fuel Developer Forum](https://forum.fuel.network/)
 - [An introduction to Sway with simple examples](https://www.swaybyexample.com/)
+- [Fuel GraphQL Docs](https://graphql-docs.fuel.network/)
 
 ## Apply for Grants
 - [Fuel Ecosystem Grant Application](https://1v1l4ftv9zy.typeform.com/fuelgrants)
