@@ -122,6 +122,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | [@poolsharks_labs](https://twitter.com/poolsharks_labs) | -- |
 |  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | [@webgumapp](https://twitter.com/webgumapp) | -- |
 |  Fuel Punks  | NFT Project | Building | -- | [@FuelPunks](https://twitter.com/FuelPunks) | -- |
+|  ⛽️GasPump  | NFT Infrastructure / Tooling | Building/Stealth | -- | [@GasPumpXYZ](https://twitter.com/GasPumpXYZ) | -- |
 
 ### International
 
