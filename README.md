@@ -45,6 +45,9 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Account Abstraction for Everyone Else: The Complete Guide to Understanding AA in 2023](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 - [Modular Blockchains & Getting Started with Fuel Labs by Eda](https://eda.hashnode.dev/modular-blockchains-getting-started-with-fuel)
 - [Fuel: A Fresh Approach To Scaling Blockchains](https://research.nansen.ai/article/329/fuel-a-fresh-approach-to-scaling-blockchains)
+- [How to deploy your own token on Fuel Testnet using Rust SDK?](https://medium.com/@swaygang/how-to-deploy-your-own-token-on-fuel-testnet-using-rust-sdk-99b48a977e19)
+- [Read about The Modular Blockchain Gang [Page: 23-25]](https://research.binance.com/static/pdf/full-year-2022-and-themes-for-2023.pdf) in the Full Year Review 2022 by Binance
+- [The Power of Predicates: A Purpose-Built Mechanism for Transaction Authorization](https://medium.com/blockchain-capital-blog/the-power-of-predicates-73f874cfa9a5)
 
 ## AMAs
 - July 13th, 22 - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
@@ -109,6 +112,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Collection of projects within the Fuel ecosystem](https://twitter.com/fuelglobal_/status/1601218737981788160?s=46&t=kwX8f7P65LAXzWyN_FtKGA)
 - [Sway vs. Solidity examples](https://twitter.com/schwartzswartz/status/1617902570630156294)
 - [Sway Vectors in 6 tweets or less](https://twitter.com/jtriley_eth/status/1612539679085334528)
+- [In-protocol Account Abstraction using Predicates in Sway](https://twitter.com/blockchaincap/status/1616121539937853441?s=20&t=vlLb0pD1np6csAJw8eeSEg)
 
 ## Libraries
 - [Sway Libraries - Fuel Labs](https://github.com/sway-libs)
