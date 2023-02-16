@@ -154,24 +154,30 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Hablando de Blockchains Modulares y Monoliticas.](https://andrw.substack.com/p/blockchains-modulares-y-monoliticas?utm_source=twitter&sd=pf)
 - [Caso de ejecución modular.](https://twitter.com/andrwmayorca/status/1580739925925691395)
 - [Cómo crecer y el Fuel de Web3 con Cami Ramos](https://t.co/dcsUgDTfiu)
+- [Fuel Newtwork ⚡Ejecución en paralelo⚡🔥 FuelVM ➡️ Sway | Español 
+](https://www.youtube.com/watch?v=B5vJWmX50QM)
 
-#### Russia
+#### Russian
 - [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
 - [О проекте Fuel.](https://medium.com/@balamosha/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-e7dca0630332)
 - [Представляем “Beta-1”, первый модульный уровень исполнения, ориентированный на разработчиков Fuel Testnet](https://medium.com/@ixelaa/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-beta-1-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2-fuel-ecf81da5d298)
 - [Масштабируемость Ethereum: почему все должны думать о Fuel](https://medium.com/@ixelaa/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-ethereum-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D1%81%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B-%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C-%D0%BE-fuel-f1d035020bd9)
 - [Testnet SwaySwap.](https://medium.com/@cryptocreepz/testnet-swayswap-f9c242e125eb)
 
-#### China
+#### Chinese
 - [SwaySwap基于Fuel测试网的中文指南](https://mirror.xyz/baikaishui.eth/TuneChL7MJ4KT6mf4YuN01J3peUpGz7hKOgQT2_QRK8)
 - [一部分博客翻译](https://colossal-lily-7f9.notion.site/Fuel-Navigation-f6fb2614dbaf4d10a0f7f9b15d878d1d)
 - [关于以太坊扩容：为什么我们应该想到Fuel](https://mirror.xyz/0xF43109fFf1E3C08Cd36D2F3c9793A73d2E893301/QvGOgPl5c63D-kaG1Qo-0TZqxXqVcU7LwS8gTm_Cagk)
 
-#### Vietnam
+#### Vietnamese
 - [Giới thiệu SwaySwap: Một DEX cực nhanh trên Lớp thực thi modular của Ethereum](https://mirror.xyz/8268368.eth/JkGOMGpFC33-KPsreGy8QF2HhMTg-2YeaJ65a_xXV0E)
 - [Fuel Labs thông báo hỗ trợ 80 triệu đô la cho lớp thực thi mô-đun nhanh nhất](https://medium.com/@truecryptovietnam1/fuel-labs-th%C3%B4ng-b%C3%A1o-h%E1%BB%97-tr%E1%BB%A3-80-tri%E1%BB%87u-%C4%91%C3%B4-la-cho-l%E1%BB%9Bp-th%E1%BB%B1c-thi-m%C3%B4-%C4%91un-nhanh-nh%E1%BA%A5t-98e182be2c14)
 
-#### Ukraine
+#### Ukrainian
 - [Представляємо Beta-1, першу тестову мережу Fuel Testnet для модульного рівня виконання, призначену для розробників](https://medium.com/@holddl/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%94%D0%BC%D0%BE-beta-1-%D0%BF%D0%B5%D1%80%D1%88%D1%83-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%83-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%83-fuel-testnet-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D1%83-73987f559df3)
 - [Модель Токена для створення блоків на Другому рівні](https://medium.com/@holddl/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D1%96%D0%B2-%D0%BD%D0%B0-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC%D1%83-%D1%80%D1%96%D0%B2%D0%BD%D1%96-7199f148b7ee)
 - [Fuel Labs оголошує про підтримку найшвидшого модульного рівня виконання вартістю 80 мільйонів доларів](https://medium.com/@EtoBOBER/fuel-labs-%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D1%83%D1%94-%D0%BF%D1%80%D0%BE-%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D1%83-%D0%BD%D0%B0%D0%B9%D1%88%D0%B2%D0%B8%D0%B4%D1%88%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%96%D0%B2%D0%BD%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2%D0%B0%D1%80%D1%82%D1%96%D1%81%D1%82%D1%8E-80-%D0%BC%D1%96%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD%D1%96%D0%B2-dfc0e28d2a81)
+
+#### French
+
+- [Ruben AMAR (Fuel Labs) - Horizon modulaire des architectures blockchain](https://youtu.be/LBYdYqMnEo4)
