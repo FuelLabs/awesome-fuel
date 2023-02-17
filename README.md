@@ -48,6 +48,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [How to deploy your own token on Fuel Testnet using Rust SDK?](https://medium.com/@swaygang/how-to-deploy-your-own-token-on-fuel-testnet-using-rust-sdk-99b48a977e19)
 - [Read about The Modular Blockchain Gang [Page: 23-25]](https://research.binance.com/static/pdf/full-year-2022-and-themes-for-2023.pdf) in the Full Year Review 2022 by Binance
 - [The Power of Predicates: A Purpose-Built Mechanism for Transaction Authorization](https://medium.com/blockchain-capital-blog/the-power-of-predicates-73f874cfa9a5)
+- [A comparison between Sway, Move and Rust](https://mirror.xyz/0xdfC0b3204CDe53676134D60aC9612D98f4225186/VK4eKuDQJebvNZ1j5jVkDVm1Ctvce11zFQsm6abSzLE)
 
 ## AMAs
 - July 13th, 22 - [SwaySwap AMA](https://twitter.com/i/spaces/1YpJkZZjevEGj)
