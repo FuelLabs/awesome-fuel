@@ -114,6 +114,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Sway vs. Solidity examples](https://twitter.com/schwartzswartz/status/1617902570630156294)
 - [Sway Vectors in 6 tweets or less](https://twitter.com/jtriley_eth/status/1612539679085334528)
 - [In-protocol Account Abstraction using Predicates in Sway](https://twitter.com/blockchaincap/status/1616121539937853441?s=20&t=vlLb0pD1np6csAJw8eeSEg)
+- [Building full-stack apps using Fuel TS SDK & browser wallet](https://twitter.com/dabit3/status/1627410654209404929?s=20)
 
 ## Libraries
 - [Sway Libraries - Fuel Labs](https://github.com/sway-libs)
@@ -155,8 +156,8 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Hablando de Blockchains Modulares y Monoliticas.](https://andrw.substack.com/p/blockchains-modulares-y-monoliticas?utm_source=twitter&sd=pf)
 - [Caso de ejecución modular.](https://twitter.com/andrwmayorca/status/1580739925925691395)
 - [Cómo crecer y el Fuel de Web3 con Cami Ramos](https://t.co/dcsUgDTfiu)
-- [Fuel Newtwork ⚡Ejecución en paralelo⚡🔥 FuelVM ➡️ Sway | Español 
-](https://www.youtube.com/watch?v=B5vJWmX50QM)
+- [Fuel Newtwork ⚡Ejecución en paralelo⚡🔥 FuelVM ➡️ Sway | Español](https://www.youtube.com/watch?v=B5vJWmX50QM)
+- [Guía definitiva del Blockchain Modular de Fuel Network 2023](https://www.youtube.com/watch?v=beCjrS07ZJQ)
 
 #### Russian
 - [Кошелек Burner Wallet + Fuel = 🔥](https://medium.com/@mririkoz_41994/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA-burner-wallet-fuel-9c80cf6ad204)
