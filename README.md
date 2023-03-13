@@ -144,6 +144,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  Sway DCA  | Dollar Cost Averaging protocol | Stealth | -- | -- | -- |
 |  PoolSharks  | Orderbook SDK | Building | [Poolsharks](https://docs.poolsharks.io/) | [@poolsharks_labs](https://twitter.com/poolsharks_labs) | -- |
 |  WebGum  | Digital File Marketplace | Building | [WebGum](https://github.com/Webgum/webgum-fuel-contract) | [@webgumapp](https://twitter.com/webgumapp) | -- |
+|  Fluid Protocol  | Stablecoin, Borrowing/Lending | Building | -- | [@Fluid_Protocol](https://twitter.com/Fluid_Protocol) | -- |
 |  Fuel Punks  | NFT Project | Building | -- | [@FuelPunks](https://twitter.com/FuelPunks) | -- |
 |  Fuelet  | Wallet | Building | [fuelet.app](https://fuelet.app/) | [@FueletWallet](https://twitter.com/FueletWallet) | -- |
 
