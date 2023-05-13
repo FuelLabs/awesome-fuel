@@ -166,6 +166,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 - [Testnet SwaySwap.](https://medium.com/@cryptocreepz/testnet-swayswap-f9c242e125eb)
 
 #### Chinese
+- - [Altlayer中文材料合集-不断更新中(Altlayer Chinese Materials-Updating)](https://chainguys.github.io/post/altlayer-zhong-wen-cai-liao-he-ji-bu-duan-geng-xin-zhong-altlayer-chinese-materials-updating/)
 - [SwaySwap基于Fuel测试网的中文指南](https://mirror.xyz/baikaishui.eth/TuneChL7MJ4KT6mf4YuN01J3peUpGz7hKOgQT2_QRK8)
 - [一部分博客翻译](https://colossal-lily-7f9.notion.site/Fuel-Navigation-f6fb2614dbaf4d10a0f7f9b15d878d1d)
 - [关于以太坊扩容：为什么我们应该想到Fuel](https://mirror.xyz/0xF43109fFf1E3C08Cd36D2F3c9793A73d2E893301/QvGOgPl5c63D-kaG1Qo-0TZqxXqVcU7LwS8gTm_Cagk)
