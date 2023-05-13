@@ -25,7 +25,7 @@ A maintained and comprehensive list of awesome Fuel resources!
 |  [Devcon](https://devcon.org/) | October 11-15, 2022 | Bogota | No | Completed |
 |  [ETH Lisbon](https://www.ethlisbon.org/) | October 28-30, 2022 | Lisbon | Yes | Completed |
 |  [ETH SF](https://sf.ethglobal.com/) | November 4-6, 2022 | San Francisco | Yes | Completed |
-|  [ETHDenver](https://www.ethdenver.com/) | Feb 24-Mar 5, 2023 | Denver | Yes | Upcoming |
+|  [ETHDenver](https://www.ethdenver.com/) | Feb 24-Mar 5, 2023 | Denver | Yes | Completed |
 
 
 ## Articles
